@@ -1,0 +1,2438 @@
+ヘ
+'he'
+へー！
+wow, I didn't know that!
+と
+'to'
+ど
+'do'
+う
+'u'
+も
+'mo'
+どうも
+hi; thanks
+す
+'su'
+こ
+'ko'
+ご
+'go'
+い
+'i'
+すごい！
+incredible!
+や
+'ya'
+は
+'ha; wa'
+ば
+'ba'
+やばい
+OMG
+いい
+good
+て
+'te'
+いいです
+I'm good; that's unnecessary
+か
+'ka'
+bastante
+quite
+bien
+well; good
+demasiado
+too much
+la descripción
+description
+igual que
+like/the same as
+más (que)
+more (than)
+máximo
+maximum (adj.)
+mayor
+larger/older
+mejor
+better
+la mayoría
+the majority
+menor
+smaller/younger
+menos (que)
+less (than)
+mínimo
+minimum (adj.)
+mismo
+same
+muy
+very
+parecido a
+similar to
+peor
+worse
+poco
+little/ not much
+por ejemplo
+for example
+tan...como
+as...as
+por ejemplo
+for example
+tanto...como
+as much...as
+menos (que)
+less (than)
+comparar
+to compare
+menos (que)
+less (than)
+la descripción
+description
+la mayoría
+the majority
+más (que)
+more (than)
+poco
+little/ not much
+tanto...como
+as much...as
+mismo
+same
+tan...como
+as...as
+a pesar de
+in spite of
+así que
+so, therefore (a); as soon as
+aun (si)
+even (if) (a..)
+aunque
+although
+como
+like/as
+cuando
+when
+incluso
+even (i)
+mientras (que)
+while
+o
+or
+u
+or (preceding word beginning with "o" sound)
+pero
+but (p)
+por eso
+for that reason
+por lo tanto
+so/therefore (p)
+porque
+because
+pues
+then (p)
+si
+if
+sin embargo
+however
+tal vez
+perhaps (t)
+aunque
+although
+también
+also
+y
+and
+e
+and (preceding words beginning with i- or hi- sounds)
+así que
+so, therefore (a); as soon as
+ya (que)
+as/since
+así que
+so, therefore (a); as soon as
+por eso
+for that reason
+y
+and
+además
+in addition/also
+aparte de
+apart from
+claro que
+of course
+dado que
+given that
+es decir
+that's to say
+por un lado...por otro lado
+on the one hand...on the other hand (l)
+por una parte...por otra parte
+on the one hand...on the other hand (p)
+sin duda
+without a doubt
+dado que
+given that
+por un lado...por otro lado
+on the one hand...on the other hand (l)
+a
+to
+con
+with
+de
+of
+en
+in/on
+hacia
+towards
+hasta
+to/as far as
+para
+for (not "por")
+por
+because of, for (not "para")
+según
+according to
+sin
+without
+jamás
+never (j)
+nada
+nothing
+nadie
+no one
+ni...ni
+neither...nor
+ninguno
+not any
+no
+not
+nunca
+never (n)
+sino
+but (s)
+tampoco
+not...either
+ya no
+not any more/ no longer
+no
+not
+dar
+to give
+deber
+must (verb infinitive)
+estar
+to be (e)
+hacer
+to do/to make
+hay
+there is/there are
+hay que
+one has to (+ inf.)
+ir
+to go
+poder
+to be able
+querer
+to want/ to love
+quisiera
+I would like (not "me gustaría")
+ser
+to be (s)
+tener
+to have
+tener que
+to have to
+acabar de (+ inf.)
+to have just done something (+ inf.)
+ocurrir
+to happen (o)
+ir a (+ inf.)
+to be going to do something (+ inf.)
+oír
+to hear
+pasar
+to happen (p)
+poner
+to put
+tener lugar
+to take place
+hacer
+to do/to make
+tener
+to have
+hay
+there is/there are
+tener
+to have
+ir a (+ inf.)
+to be going to do something (+ inf.)
+volverse
+to become (v)
+hacerse
+to become (h)
+irse
+to go away, to leave
+un millón
+a million
+doscientos
+200
+quinientos
+500
+cuarenta
+40
+diecinueve
+19
+veintiséis
+26
+sesenta y tres
+63
+trescientos noventa y cinco
+395
+primero
+first
+segundo
+second
+tercero
+third
+cuarto
+fourth
+quinto
+fifth
+sexto
+sixth
+séptimo
+seventh
+octavo
+eighth
+noveno
+ninth
+décimo
+tenth
+¿Te interesa...?
+Are you interested in...?
+¿Te interesa...?
+Are you interested in...?
+el arte dramático
+drama
+el dibujo
+art/drawing
+el español
+Spanish
+English
+Attributes
+la biología
+biology
+English
+el inglés
+la educación física
+PE
+la física
+physics
+la geografía
+geography
+la historia
+history
+la informática
+ICT
+la lengua
+language
+la química
+chemistry
+la religión
+RE
+la tecnología
+technology
+los idiomas
+foreign languages
+las empresariales
+business studies
+las matemáticas
+maths
+las ciencias
+science
+la materia/la asignatura
+subject
+mi asignatura favorita
+my favourite subject
+me encanta el español
+I love Spanish
+me encantan las matemáticas
+I love maths
+me chifla la informática
+I love ICT
+me chiflan las ciencias
+I love science
+me interesa la historia
+I am interested in history
+me interesan los idiomas
+I am interested in foreign languages
+me fascina la química
+I am fascinated by chemistry
+me fascinan las empresariales
+I am fascinated by business studies
+me gusta la física
+I like physics
+me gustan los idiomas
+I like foreign languages
+no me gusta el dibujo
+I don't like art
+no me gustan las ciencias
+I don't like science
+odio
+I hate
+prefiero
+I prefer
+porque es
+because it is
+porque son
+because they are
+mi día preferido es el viernes
+my favourite day is Friday
+mi horario
+my timetable
+¿Qué día tienes...?
+What day do you have...?
+tengo inglés los martes
+I have English on Tuesdays
+¿A qué hora tienes...?
+What time do you have...?
+a la una
+at one o'clock
+a las dos
+at two o'clock
+a las doce y veinte
+at twenty past twelve
+a las tres menos diez
+at ten to three
+a las dos y media
+at half past two
+a las nueve menos cuarto
+at quarter to nine
+la educación infantil
+pre-school
+la educación primaria
+primary education
+la educación secundaria
+secondary education
+el bachillerato
+A-levels
+la formación profesional
+vocational training
+el instituto
+high school
+ESO (educación secundaria obligatoria)
+compulsory secondary education (high school)
+¿Qué tal los estudios?
+How are your studies?
+es mejor que
+it's better than
+es peor que
+it's worse than
+la física es mejor que la biología
+physics is better than biology
+la geografía es peor que el español
+geography is worse than Spanish
+fácil
+easy
+difícil
+difficult
+divertido
+fun
+aburrido
+boring
+útil
+useful
+relevante
+relevant
+práctico
+practical
+creativo
+creative
+relajante
+relaxing
+exacto
+precise
+lógico
+logical
+exigente
+demanding
+más facil que
+easier than
+menos aburrido que
+less boring than
+el dibujo es más creativo que la química
+art is more creative than chemistry
+la historia es menos relevante que la geografía
+history is less relevant than geography
+las matemáticas son más útiles que la religión
+maths is more useful than RE
+el español es tan divertido como el francés
+Spanish is as fun as French
+mi profesor de ciencias es...
+my science teacher is...
+paciente
+patient
+impaciente
+impatient
+tolerante
+tolerant
+severo
+harsh
+listo
+clever
+tonto
+stupid
+trabajador
+hard-working
+perezoso
+lazy
+simpático
+nice
+esctricto
+strict
+mi profe...
+my teacher...
+enseña bien
+teaches well
+explica bien
+explains well
+tiene buen sentido del humor
+has a good sense of humour
+tiene expectativas altas
+has high expectations
+crea un buen ambiente de trabajo
+creates a good working atmosphere
+nos da consejos
+gives us advice
+nos pone muchos deberes
+gives us lots of homework
+una biblioteca
+a library
+lo bueno es que...
+the good thing is that...
+un comedor
+a canteen
+un salón de actos
+a hall
+me hace pensar
+makes me think
+las evaluaciones
+assessments
+las pruebas
+tests
+nunca se enfada
+never gets angry
+suspender
+to fail
+el curso académico
+the academic year
+lo que menos me gusta es...
+What I like least is...
+mi instituto tiene...
+my school has...
+un campo de fútbol
+a football pitch
+muchas aulas
+lots of classrooms
+nada
+nothing/anything
+lo mejor es que...
+the best thing is that...
+mi escuela primaria tenía...
+my primary school had...
+mi insti es...
+my school is...
+en mi instituto hay...
+in my school there is/are...
+mixto
+mixed
+ni ... ni ...
+neither... nor...
+un gimnasio
+a gym
+un patio
+a playground
+unos laboratorios
+some laboratories
+pequeño
+small
+público
+state
+una pista de tenis
+a tennis court
+grande
+big
+más/menos...
+more/fewer...
+¿Cómo es tu insti?
+What is your school like?
+en mi escuela primaria había...
+in my primary school, there was/were...
+lo que más me gusta es...
+What I like most is...
+nadie
+nobody/anybody
+tampoco
+neither/not either
+lo peor es que...
+the worst thing is that...
+exámenes
+exams
+una pista de atletismo
+an athletics track
+masculino
+all boys
+no ... ningún/ninguna
+not a single...
+antiguo
+old
+moderno
+modern
+alumnos
+students
+muebles
+furniture
+espacios verdes
+green spaces
+tiempo libre
+free time
+oportunidades
+opportunities
+instalaciones
+facilities
+pizarras interactivas
+interactive whiteboards
+clases
+lessons
+aulas de informática
+ICT rooms
+mi escuela primaria tenía menos alumnos
+my primary school had fewer students
+en mi escuela primaria había más espacios verdes
+in my primary school, there were more green spaces
+donde jugar
+somewhere to play
+poco espacio
+not much space
+antes
+before
+ahora
+now
+el edificio
+the building
+el colegio
+the school
+el día escolar
+the school day
+es
+is
+era
+was
+時
+when(time)
+悪い
+bad
+夢
+dream
+学ぶ
+learning
+学校
+school
+少ない
+few
+男
+male
+女
+female
+頑張る
+keep at it
+今
+now, present time
+水
+water
+下
+below
+上
+above
+手
+hand
+不
+negative, -non, -un
+無し
+nothingness, none, naught
+何
+what
+愛
+love, affection
+恋い
+romance, in love
+第
+ordinal: 第いち、第三
+目
+eye, sight, look, insight
+自
+oneself
+分
+minute
+話
+talk, tale
+電
+electricity
+絵
+picture, drawing
+忘れる
+forget
+感
+emotion, feelings
+哀れ
+pathetic
+年
+year
+平気
+coolness/composure
+多い
+many/much
+君
+you or kun
+まいった
+I give up/I'm beaten
+中
+middle/center/in
+困った
+annoyed
+仕方ない
+can't be helped
+最初
+beginning/first
+作戦
+strategy/tactics
+泣く
+cry/weep
+きらきら
+sparkly/glittery
+だらだら
+dripping/trickling
+ぜつぼう
+despair
+いちゃいちゃ
+flirt/make out
+人生
+humanity/life
+代わり
+change/replace
+ばしょ
+place/location
+そうか
+is that so?
+ひるほ
+daytime
+よるほ
+nighttime
+怠慢
+carelessness/procrastination
+さすが
+as expected
+ところで
+by the way
+勿論
+of course/naturally
+学園
+academy
+事故
+incident
+ご主人様
+master/lord
+大変
+big trouble(serious)
+世界
+the world/society
+良い
+good
+命じる
+to command
+同感
+agreement/same opinion
+随分
+surprisingly/reprehensibly
+不思議
+wonder/mystery/strange
+誇り
+pride
+学ぶ
+learning
+貴方
+you
+言葉
+language/word
+しかし
+however/but
+通り
+street/road
+先生
+teacher
+違い
+difference
+別に
+nothing/not really
+顔
+face/expression
+実
+truth/honestly
+やっぱり
+after all
+やはり
+as i thought
+はがね
+steel
+しょがない
+can't be helped
+大切
+important/valuable
+美し
+beautiful
+まさか
+something unexpected
+失せろ
+get out of my sight/beat it
+大ピンチ
+big trouble
+我々
+we
+諸君
+gentlemen/ladies
+感激
+deep emotion/inspiration
+正しい
+just/righteous
+最近
+recently/these days
+そういえば
+come to think of it/now that you mention it
+まじで
+are you serious!?
+素晴らしい
+splendid/magnificent
+すまない
+heartfelt sorry
+いよいよ
+at last/finally
+殺す
+to kill
+のみ
+only/nothing but
+完璧
+perfect/flawless
+裏切り者
+traitor
+変わってる
+to be unusual
+大義
+great cause/justice
+こいつ
+this person
+転校生
+transfer student
+なかま
+comrade/colleague
+らしくない
+unusual/different
+へんじん
+oddball/weirdo
+女性
+woman/female
+しっかり
+hold on/hang in there
+うごくなあ
+dont move
+お前
+you(very rude/impolite)
+ぶっ殺す
+beat to death/kill
+みらい
+future
+ゆめじ
+dreaming
+月影
+moonlight
+みち
+road/path
+とびら
+door
+はなびら
+flower petal
+けもの
+beast/animal
+みたい
+similar/resembling
+よる
+night
+かがやく
+radiance/shine
+ゆるぎ
+shaking/swaying
+げんじつ
+reality
+まずい
+unpleasant
+せつな
+moment
+すまん
+sorry/excuse me
+ゆびさき
+fingertip/toetip
+すべて
+all/everything
+大事
+important/valuable
+ちゃんと
+seriously/properly
+知らない
+i dont know/i dont care
+ゆるり
+slowly/leisurely
+声
+voice
+たかく
+diverse
+命
+fate/destiny
+わらう
+laugh
+めまい
+dizzy
+きたい
+hope/expectation
+くれる
+to end
+いろ
+color
+少し
+little/few
+町
+town
+思い出
+memories
+さびしい
+loneliness
+いない
+within
+いたい
+pain
+ちから
+power
+かなた
+beyond
+くも
+clouds
+やじるし
+arrow
+ひらひら
+flicker/flutter
+小さな
+little(size)/tiny
+無言
+silence
+ばら
+rose
+大丈夫
+okay
+恥ずかしい
+embarrassing
+可愛い
+cute
+安心
+relief
+授業
+lesson(class work)
+時間
+time
+お願い
+please(request)
+味
+flavor(taste)
+全力
+best
+そうそう
+thats right(oh yes!)
+お風呂
+bath
+わかりました
+understood
+夕食
+dinner
+冗談
+joke
+ごかい
+misunderstanding
+庶民
+common people(peasant)
+けっこう
+that's fine(no thankyou)
+へん
+weird
+電撃
+electric(shock)
+弱い
+weak(frail)
+良い子
+good boy(girl)
+色々
+everything(various things)
+貧乏
+poor
+勝負
+victory/defeat/match/duel
+約束
+promise(pact)
+私
+me(I/personal matter)
+活動
+action(activity)
+思う
+to think
+危険
+danger(peril)
+気圏
+atmosphere
+お仕事
+work(job)
+原因
+origin(source)
+地震
+earthquake
+宇宙人
+alien
+年上
+senior
+先輩
+senior(upperclassmen)
+霞む
+hazy(blurry)
+侵入者
+intruder
+チョコ
+chocolate
+死ね
+death(die)
+なさい
+do
+雪
+snow
+感覚
+sense(sensation)
+確か
+certain(if im not mistaken)
+だから
+therefore(so/like i said)
+本当
+truth(actuality)
+怪我
+injury
+細い
+slender(thin)
+記憶
+recollection(memory)
+趣味
+hobby(pastime)
+悲惨
+misery(tragic/woeful)
+笑顔
+smile
+不幸
+unhappiness(sorrow)
+自殺
+suicide
+思考
+thought(consideration)
+拾う
+pick up(gather)
+思わず
+instinctively(unintentionally)
+宿る
+to dwell(to remain)
+視線
+gaze(glance)
+心
+heart
+数々
+numerous(large number of)
+握り
+grasping(clutch/grip)
+温かい
+warm
+ぶんぶん
+shake(shaking)
+たんぽぽ
+dandelion
+花火
+fireworks
+遠い
+far away(distant)
+負んぶ
+carrying on one's back
+面倒くさい
+bothersome
+山
+mountain(also Mt.)
+接続
+connection(attachment)
+おっす
+yo(yes sir!)
+図書館
+library
+おっす
+yo(yes sir!)
+去年
+last year
+今年
+this year
+来年
+next year
+ピンポン
+bingo!
+再生
+playback
+判断
+judgement/decision
+綺麗
+pretty
+初めて
+for the first time
+抱き
+body
+美人
+beautiful person(woman)
+考えて
+thinking
+同じ
+same
+少女
+girl
+両手
+with both hands
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+警報
+alarm/warning
+監視官
+inspector
+敵
+enemy
+今回
+this time
+前提
+prerequisite/condition
+社会
+society
+生体
+organism
+事実
+fact/reality
+現場
+scene of a crime
+対処
+deal with/cope
+迷惑
+trouble/annoyance
+組む
+to cross(legs or arms)
+存在
+existence/being
+簡単
+simple/easy
+謝り
+apology
+免罪
+acquittal
+観察
+observation/survey
+逮捕
+arrest/apprehend
+経歴
+personal history/record
+選
+choose/select
+生殖
+reproduction
+先
+ahead(opposite of さき)
+無理
+unreasonable/impossible
+次式
+following equation
+改善
+betterment/improvement
+カムイ
+God/Deity/Spirit
+製造者
+manufacturer
+関係者
+authorized people
+人物
+talented man/person
+感謝
+thanks/gratitude
+囁
+whisper/murmur
+むげん
+fantasy/dreams/infinite
+触れ
+touch
+茶
+tea
+ニコ
+onomatopoeia for smile
+面白い
+interesting/amusing
+任
+responsibility
+階段
+stairs
+風邪
+common cold
+風邪
+strangeness/oddness/abnormality
+遂
+end/final
+発売
+sale/release(for sale)
+ゆらゆら
+slow swaying/rolling from side to side
+外国
+foreign country
+外国人
+foreigner
+高校生
+highschool student
+風邪
+common cold
+最高
+supreme/awesome
+舞台
+stage/theatre
+しこしこ
+chewy/also fapping sound
+撮影
+photography
+厳しい
+severe/strict
+下手
+unskillfull/poor
+一発
+punch/blow/shot
+風邪
+strangeness/oddness/abnormality
+喋る
+to talk
+仕方ない
+can't be helped
+大切
+important/valuable
+しょがない
+can't be helped
+しょがない
+can't be helped
+仕方ない
+can't be helped
+大事
+important/valuable
+おっす
+yo(yes sir!)
+温かい
+warm
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+しょがない
+can't be helped
+おっす
+yo(yes sir!)
+大切
+important/valuable
+大事
+important/valuable
+大切
+important/valuable
+おっす
+yo(yes sir!)
+大事
+important/valuable
+大切
+important/valuable
+おっす
+yo(yes sir!)
+大事
+important/valuable
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+おっす
+yo(yes sir!)
+ا ؛ ـا
+ā
+هـ ؛ ـهـ ؛ ـه
+h
+لـ ؛ ـلـ ؛ ـل
+l
+نـ ؛ ـنـ ؛ ـن
+n
+عـ ؛ ـعـ ؛ ـع
+‘ (ayn)
+مـ ؛ ـمـ ؛ ـم
+m
+شـ ؛ ـشـ ؛ ـش
+sh
+كـ ؛ ـكـ ؛ ـك
+k
+ر ؛ ـر
+r
+فـ ؛ ـفـ ؛ ـف ؛ ف
+f
+ضـ ؛ ـضـ ؛ ـض
+ḍ
+فـ ؛ ـفـ ؛ ـف ؛ ف
+f
+ضـ ؛ ـضـ ؛ ـض
+ḍ
+كـ ؛ ـكـ ؛ ـك
+k
+نـ ؛ ـنـ ؛ ـن
+n
+مـ ؛ ـمـ ؛ ـم
+m
+لـ ؛ ـلـ ؛ ـل
+l
+ضـ ؛ ـضـ ؛ ـض
+ḍ
+عـ ؛ ـعـ ؛ ـع
+‘ (ayn)
+ضـ ؛ ـضـ ؛ ـض
+ḍ
+كـ ؛ ـكـ ؛ ـك
+k
+ضـ ؛ ـضـ ؛ ـض
+ḍ
+لـ ؛ ـلـ ؛ ـل
+l
+كـ ؛ ـكـ ؛ ـك
+k
+شـ ؛ ـشـ ؛ ـش
+sh
+هـ ؛ ـهـ ؛ ـه
+h
+لـ ؛ ـلـ ؛ ـل
+l
+كـ ؛ ـكـ ؛ ـك
+k
+لـ ؛ ـلـ ؛ ـل
+l
+كـ ؛ ـكـ ؛ ـك
+k
+هـ ؛ ـهـ ؛ ـه
+h
+لـ ؛ ـلـ ؛ ـل
+l
+كـ ؛ ـكـ ؛ ـك
+k
+لـ ؛ ـلـ ؛ ـل
+l
+كـ ؛ ـكـ ؛ ـك
+k
+كـ ؛ ـكـ ؛ ـك
+k
+كـ ؛ ـكـ ؛ ـك
+k
+كـ ؛ ـكـ ؛ ـك
+k
+كـ ؛ ـكـ ؛ ـك
+k
+كـ ؛ ـكـ ؛ ـك
+k
+كـ ؛ ـكـ ؛ ـك
+k
+كـ ؛ ـكـ ؛ ـك
+k
+هـ ؛ ـهـ ؛ ـه
+h
+بـ ؛ ـبـ ؛ ـب
+b
+صـ ؛ ـصـ ؛ ـص
+ṣ
+حـ ؛ ـحـ ؛ ـح
+ḥ
+خـ ؛ ـخـ ؛ ـخ
+kh
+و ؛ ـو
+w; ū
+د ؛ ـد
+d
+ز ؛ ـز
+z
+قـ ؛ ـقـ ؛ ـق
+q
+يـ ؛ ـيـ ؛ ـي
+y; ī
+ذ ؛ ـذ
+dh (also ḏ )
+نعم
+yes
+أهلاً
+hi
+لا
+no
+أشكرك
+thank you
+من فضلك
+please
+صباح الخير
+good morning
+الوداع
+goodbye
+سـ ؛ ـسـ ؛ ـس
+s
+تـ ؛ ـتـ ؛ ـت
+t
+ثـ ؛ ـثـ ؛ ـث
+th
+طـ ؛ ـطـ ؛ ـط
+ṭ
+ظـ ؛ ـظـ ؛ ـظ
+ẓ
+جـ ؛ ـجـ ؛ ـج
+j (also ǧ, g )
+غـ ؛ ـغـ ؛ ـغ
+gh
+أكيد
+okay; sure; definite
+ما الجديد؟
+what's up?
+هيا بنا!
+let's go!
+أراك لاحقًا
+see you later
+تصبح على خير
+good night (said to a man)
+تصبحين على خير
+good night (said to a woman)
+في صحتك!
+cheers!
+..ـي
+mine
+..ـك
+your (singular)
+حال
+state
+كيف حالك؟
+how are you?
+أنا
+I; me
+أنت
+you (singular)
+بخير
+alright; fine
+أنا بخير
+I'm alright
+ماذا؛ ما
+what
+اسم
+name
+ما اسمك؟
+what's your name?
+اسمي ..
+my name is ...
+عبقري
+genius
+أنت عبقري!
+you're a genius! (said to a man)
+كيف
+how
+أنت عبقرية!
+you're a genius! (said to a woman)
+حزين
+sad
+غاضب
+angry; mad
+على
+on; over
+على حق
+right; correct
+مخطئ
+wrong
+متعب
+tired
+مريض
+sick
+جائع
+hungry
+عطِش
+thirsty
+سعيد
+happy
+جدًا
+very
+شيء
+thing; object
+بعض الشيء
+a little (bit); some thing
+هل
+question marker
+أنا متعبة
+I'm tired (said by a woman)
+أنا متعب
+I'm tired (said by a man)
+أنت مريض
+you're sick (said to a man)
+أنت مريضة
+you're sick (said to a woman)
+هل أنت جائع؟
+are you hungry?
+أنا جائع بعض الشيء
+I'm a little hungry
+أنا عطِش جدًا
+I'm very thirsty
+هل أنا مخطئ؟
+am I wrong?
+أنت على حق
+you're right
+وجبة
+meal
+طعام
+food
+خبز
+bread
+مكرونة
+pasta
+أرز
+rice
+بطاطس
+potato
+خضار
+vegetable
+فاكهة
+fruit
+سَلَطَة
+salad
+تفاحة
+apple
+موزة
+banana
+برتقالة
+orange (fruit)
+ليمونة
+lemon
+زيتونة
+olive
+حساء
+soup
+بيضة
+egg
+جبن
+cheese
+دجاج
+chicken (meat)
+بقرة
+cow
+خنزير
+pig
+لحم خنزير
+pork
+لحم بقري
+beef
+سمك
+fish (meat)
+ماء
+water
+قهوة
+coffee
+شاي
+tea
+لحم
+meat
+بيرة
+beer
+نبيذ
+wine
+حليب
+milk
+عصير
+juice
+صلصة
+sauce
+زبدة
+butter
+زيت
+oil
+أن تحب
+to like; to love
+أن
+to; that
+أن تكره
+to hate
+هو
+he; him; it
+هي
+she; her; it
+شهي
+delicious
+مقرف
+disgusting
+و
+and
+الـ
+the
+إن
+(used for emphasis)
+إنه شهي
+it's delicious
+أنا لا أحب ..
+I don't like ...
+أنا أحب الخبز
+I like bread
+أنا لا أحب المكرونة
+I don't like pasta
+أنا أحب البرتقال
+I like oranges
+أنا لا أحب التفاح
+I don't like apples
+القهوة شهية
+coffee is delicious
+أنا أحب الشاي والقهوة
+I like tea and coffee
+لبناني؛ لبنانية
+Lebanese
+مصري؛ مصرية
+Egyptian
+سوري؛ سورية
+Syrian
+سعودي؛ سعودية
+Saudi Arabian
+English
+
+عن
+about; than
+English
+
+أنا إنجليزي
+I'm English (said by a man)
+English
+
+أنا إنجليزية
+I'm English (said by a woman)
+English
+
+ماذا عنك؟
+how about you?
+هل أنت مصري؟
+are you Egyptian?
+لا، أنا لست مصريًّا
+no, I'm not Egyptian
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+أبدًا
+never; ever
+دائمًا
+always
+لماذا
+why
+لأن
+because
+هكذا
+so; in this way
+أنت سعيد دائمًا
+you're always happy
+إنه دائمًا غير سعيد
+he's never happy
+لماذا أنت حزين هكذا؟
+why are you so sad?
+.. لأنك مريض
+... because you're sick
+أنا غاضب لأني جائع
+I'm angry because I'm hungry
+إنه حزين بعض الشيء لأنك غاضب
+he's a little sad because you're angry
+هاتف
+phone; telephone
+رقم هاتف
+phone number
+صفر؛ ٠
+zero; 0
+واحد؛ ١
+one; 1
+اثنان؛ ٢
+two; 2
+ثلاث؛ ٣
+three; 3
+أربعة؛ ٤
+four; 4
+خمسة؛ ٥
+five; 5
+ستة؛ ٦
+six; 6
+رقم
+number
+سبعة؛ ٧
+seven; 7
+ثمانية؛ ٨
+eight; 8
+تسعة؛ ٩
+nine; 9
+عشر؛ ١٠
+ten; 10
+ما هو رقم هاتفك؟
+what's your phone number?
+رقمي هو ..
+my phone number is ...
+مائدة
+table
+قائمة
+menu; list
+سكين
+knife
+شوكة
+fork
+ملعقة
+spoon
+عيدان
+chopsticks
+أنا استطيع
+I can; I could
+أن تذهب
+to go
+أن تأكل
+to eat
+أن تشرب
+to drink
+مستعد
+ready
+طعام جاهز
+take-away
+طلب
+order; request
+شخص
+person
+لـ
+for
+بـ
+by (means of)
+بدون
+without
+مطعم
+restaurant
+مِن
+from
+نحن
+we; us
+لي
+for me; mine
+لنا
+for us; ours
+لك
+for you; yours (singular)
+هل هو لي؟
+is it for me?
+إنه لك
+it's for you
+مائدة لشخصين من فضلك
+a table for two please
+هل لنا بـ .. من فضلك؟
+can we have ... please?
+هل لنا بالقائمة من فضلك؟
+can we have the menu please?
+هل أنت مستعد؟
+are you ready?
+هل أنت مستعد للطلب؟
+are you ready to order?
+نعم من فضلك
+yes please
+لا شكرا
+no thank you
+أن تعتقد
+to think (opinion)
+اعتقد
+I think (opinion)
+رأي
+opinion
+جيد
+good; well; fine; alright
+أن تفكر
+to think (thoughts); to consider
+سيء
+bad
+رائع
+awesome; fantastic
+جميل
+beautiful; pretty
+قبيح
+ugly
+قوي
+strong; powerful
+ضعيف
+weak
+سمين
+fat
+رفيع
+thin; skinny
+لطيف
+nice; kind
+كبير
+big; large; senior
+صغير
+small; junior
+طويل
+long; tall
+قصير
+short
+أيضًا
+too; also; as well
+للغاية
+(way) too
+هذا (هذه)
+that; this; this one
+ذلك (تلك)
+that; that one
+إنه رائع
+he's awesome
+إنها جميلة
+she's beautiful
+إنه لطيف
+it's nice
+يا!
+oh!
+يا لروعته!
+oh how fantastic!
+ما رأيك؟
+what’s your opinion?
+اعتقد إنه رائع
+I think it's awesome
+اعتقد إنه كبير للغاية
+I think it's too big
+اعتقد ذلك أيضًا
+I think so too
+أنا لا اعتقد ذلك
+I don't think so
+احتاج
+I need
+أن تحتاج
+to need
+تحتاج
+you need; she needs
+يحتاج
+he needs
+نحتاج
+we need
+تحتاجون
+you need (plural)
+يحتاجون
+they need
+احتاج مساعدة
+I need help
+مساعدة
+help
+أن تقول
+to say; to tell
+العربية
+Arabic (language)
+كيف تقول .. بالعربية؟
+how do you say ... in Arabic?
+أن تعني
+to mean
+ماذا يعني ..؟
+what does ... mean?
+أن تعرف
+to know
+لا أعرف
+I don't know
+أن تفهم
+to understand
+أنا لا أفهم
+I don't understand
+هل تفهم؟
+do you understand?
+أنا أيضًا
+me too
+ولا أنا
+me neither
+أن تقابل
+to meet
+سررت بمقابلتك
+nice to meet you
+عظيم
+great
+هذا عظيم!
+that's great!
+تفضل
+here you go
+مرحبًا!
+welcome!
+حظ
+luck
+على الرحب والسعة
+you're welcome
+حظ سعيد!
+good luck!
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+English
+
+مصر
+Egypt
+لبنان
+Lebanon
+سوريا
+Syria
+المملكة العربية السعودية
+(the kingdom of) Saudi Arabia
+إنجلترا
+England
+أن تتحدث
+to speak; to talk
+قليل
+(a) little; (a) few
+أين
+where
+من أين أنت؟
+where are you from?
+أنا من إنجلترا
+I'm from England
+هل أنت من إنجلترا؟
+are you from England?
+أنا اتحدث الإنجليزية
+I speak English
+بالطبع!
+of course!
+بالطبع اتحدث الإنجليزية
+of course I speak English
+هل تتحدث العربية؟
+do you speak Arabic?
+اتحدث القليل من العربية
+I speak a little Arabic
+أنت تتحدث العربية جيدًا جدًا
+you speak Arabic very well
+طبق
+plate
+كوب
+cup
+كوب زجاجي
+(a) glass
+قنينة
+bottle
+لاتيه
+latte
+مقبلات
+starter
+وجبة أساسية
+main course
+تحلية
+dessert
+أن تريد
+to want; would like
+أريد
+I want; I would like
+لدى
+found; available
+هل لديك ..؟
+do you have ... ?
+بعض
+some
+أي (أية)
+any; which
+كل شيء
+everything
+لا شيء
+nothing
+شيء ما
+something
+أي شيء
+anything; whatever
+نفس
+same
+أو
+or
+ليس
+not
+ماذا تريد؟
+what would you like?
+أريد كوب من الشاي من فضلك
+I would like a cup of tea please
+نفس الشيء لي من فضلك
+the same for me please
+ماذا تريد أن تأكل؟
+what would you like to eat?
+هل تريد قنينة أو كوب زجاجي؟
+would you like a bottle or a glass?
+أريد بعض الحليب من فضلك
+I would like some milk please
+هل لديك أية تحلية؟
+do you have any desserts?
+ليس لدي أي شيء
+I don't have anything
+ليس لدي أي ماء
+I don't have any water
+بالطبع لدي بعض الماء
+of course I have some water
+إحدى عشر؛ ١١
+eleven; 11
+اثنى عشر؛ ١٢
+twelve; 12
+ثلاث عشر؛ ١٣
+thirteen; 13
+أربعة عشر؛ ١٤
+fourteen; 14
+خمسة عشر؛ ١٥
+fifteen; 15
+ستة عشر؛ ١٦
+sixteen; 16
+سبعة عشر؛ ١٧
+seventeen; 17
+ثمانية عشر؛ ١٨
+eighteen; 18
+تسع عشر؛ ١٩
+nineteen; 19
+عشرون؛ ٢٠
+twenty; 20
+عجلة
+rush; tyre
+أمر
+matter; order; command
+أنا في عجلة من أمري
+I'm in a rush
+فكرة
+idea; thought
+لدي فكرة
+I have an idea
+ليس لدي أية فكرة
+I have no idea
+خيار
+an option
+آخر (أخرى)
+other; another
+ليس لدينا خيار آخر
+we have no other options
+أن تنسى
+to forget
+أن تتذكر
+to remember
+أنا لا اتذكر
+I don't remember
+حدث
+event; happening
+أن يحدث
+to happen; to occur
+ماذا حدث؟
+what happened?
+أن تهم
+to concern; to matter
+هذا لا يهم
+that doesn't matter
+بالضبط!
+exactly!
+قائمة تسوق
+shopping list
+متجر
+shop; store
+سوق
+market; (souk) bazaar
+سوبرماركت
+supermarket
+بنك
+bank
+ماكينة صراف آلي
+ATM
+كتاب
+book
+متجر كتب
+bookshop
+صيدلية
+pharmacy
+كشك
+kiosk
+سيارة
+car; vehicle
+تاكسي
+taxi
+دراجة
+bike
+ناس
+people; folk
+عميل؛ عميلة
+customer; client; agent
+أن تستأجر
+to rent
+أن تشتري
+to buy
+أن تبيع
+to sell
+أن تكلف
+to cost
+أن تدفع
+to pay
+أن تذهب للتسوق
+to go shopping
+يوجد
+exists (there is; there are)
+كثير
+many; much
+أكثر
+more; most
+هيا نذهب للتسوق
+let's go shopping
+هيا نذهب للسوق
+let's go to the market
+أريد أن اشتري شيء ما لك
+I want to buy something for you
+توجد صيدلية كبيرة
+there is a big pharmacy
+يوجد الكثير من الناس
+there are many people
+هل توجد ماكينة للصراف الآلي؟
+is there an ATM?
+لا توجد بنوك
+there are no banks
+العميل دائمًا على حق
+the customer is always right
+توجد الكثير من متاجر الكتب الصغيرة
+there are many small bookshops
+mi madre me da
+my mum gives me
+diez euros a la semana
+10 euros a week
+treinta euros al mes
+30 euros a month
+mis padres me dan
+my parents give me
+La paga
+Pocket money
+gasto mi paga en
+I spent my pocket money on
+también compro
+I also buy
+saldo para el móvil
+credit for my phone
+mi padre me da
+my dad gives me
+ropa
+clothes
+joyas
+jewellery
+maquillaje
+make-up
+zapatillas de marca
+designer trainers
+videojuegos
+computer games
+revistas
+magazines
+Mis ratos libres
+My free time
+las actividades de ocio
+leisure activities
+tengo muchos pasatiempos
+I have lots of hobbies
+a la hora de comer
+at lunchtime
+cuando tengo tiempo
+when I have time
+después del insti
+after school
+los fines de semana
+at weekends
+mientras desayuno
+while I have breakfast
+mientras como
+while I have lunch
+juego al billar
+I play billiards
+juego al futbolín
+I play table football
+monto en bici
+I ride my bike
+monto en monopatín
+I skateboard
+quedo con mis amigos
+I meet up with friends
+voy de compras
+I go shopping
+mi pasión es la música
+my passion is music
+mi pasión es la lectura
+my passion is reading
+suelo...
+I usually...
+descansar
+rest
+escuchar música
+listen to music
+escuchar la radio
+listen to the radio
+hacer deporte
+do sport
+ir al cine
+go to the cinema
+leer libros
+read books
+leer revistas
+read magazines
+leer periódicos
+read newspapers
+salir con amigos
+go out with friends
+usar el ordenador
+use the computer
+ver la tele
+watch TV
+suelo leer revistas
+I usually read magazines
+después del insti suelo ver la tele
+after school I usually watch TV
+es divertido
+it's fun
+es relajante
+it's relaxing
+es sano
+it's healthy
+soy creativo
+I am creative
+soy perezoso
+I am lazy
+soy sociable
+I am sociable
+me ayuda a relajarme
+it helps me to relax
+me ayuda a olvidarme de todo
+it helps me to forget everything
+me hace reír
+it makes me laugh
+necesito relacionarme con otra gente
+I need to have contact with other people
+La música
+Music
+me gusta el soul
+I like soul music
+me chifla el rap
+I love rap music
+me flipa el dance
+I love dance music
+me encanta el hip-hop
+I love hip-hop music
+me mola el pop
+I love pop music
+me gusta el rock
+I like rock music
+me encanta el jazz
+I love jazz music
+me gusta la música clásica
+I like classical music
+me encanta la música electrónica
+I love electronic music
+asistir a un concierto
+to attend a concert
+cantar
+to sing
+cantar una canción
+to sing a song
+tocar el teclado
+to play the keyboard
+tocar el piano
+to play the piano
+tocar la batería
+the play the drums
+tocar la flauta
+to play the flute
+tocar la guitarra
+to play the guitar
+tocar la trompeta
+to play the trumpet
+tocar el saxofón
+to play the saxophone
+tocar el clarinete
+to play the clarinet
+tocar el trombón
+to play the trombone
+mi cantante preferido es
+my favourite singer is
+un espectáculo
+a show
+una gira
+a tour
+una gira mundial
+a world tour
+alegrar(se)
+to be happy
+apreciar
+to appreciate/to be fond of
+aprovechar(se)
+to take advantage
+creer
+to think/to believe
+dar igual
+to make no difference
+decepcionar
+to disappoint
+decir
+to say
+desear
+to want (d)
+detestar
+to hate (d)
+disfrutar
+to enjoy
+miembro de un equipo
+a member of a team
+aficionado hincha de
+a fan of
+un fanático de
+a ... fanatic
+juego el bádminton
+I play badminton
+El deporte
+Sport
+Era
+I was
+Soy
+I am
+juego al baloncesto
+I play basketball
+juego al béisbol
+I play baseball
+juego al balonmano
+I play handball
+jugué al criquet
+I played cricket
+miembro de un club
+a member of a club
+jugué al fútbol
+I played football
+muy deportista
+very sporty
+jugué al hockey
+I played hockey
+jugué al ping-pong
+I played table tennis
+jugaba al rugby
+I used to play rugby
+bastante deportista
+quite sporty
+jugaba al tenis
+I used to play tennis
+deportista
+sporty
